@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="billing_title">订阅</string>
+    <string name="billing_monthly_product_id">月度商品 ID：%1$s</string>
+</resources>

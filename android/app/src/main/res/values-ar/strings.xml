@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeetLog</string>
+    <string name="home_title">MeetLog</string>
+    <string name="home_subtitle">على الجهاز فقط. بدون حساب.</string>
+    <string name="home_backup_note">النسخ الاحتياطي يستخدم AES-256-GCM على الجهاز.</string>
+    <string name="action_open_settings">الإعدادات</string>
+    <string name="action_open_billing">الاشتراك</string>
+</resources>

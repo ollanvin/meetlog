@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeetLog</string>
+    <string name="home_title">MeetLog</string>
+    <string name="home_subtitle">온디바이스 전용. 계정 없음.</string>
+    <string name="home_backup_note">백업은 기기에서 AES-256-GCM으로 처리됩니다.</string>
+    <string name="action_open_settings">설정</string>
+    <string name="action_open_billing">구독</string>
+</resources>

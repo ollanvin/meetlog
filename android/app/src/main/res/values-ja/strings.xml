@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeetLog</string>
+    <string name="home_title">MeetLog</string>
+    <string name="home_subtitle">端末内のみ。アカウント不要。</string>
+    <string name="home_backup_note">バックアップは端末上で AES-256-GCM を使用します。</string>
+    <string name="action_open_settings">設定</string>
+    <string name="action_open_billing">サブスクリプション</string>
+</resources>

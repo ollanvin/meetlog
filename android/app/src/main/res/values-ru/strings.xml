@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeetLog</string>
+    <string name="home_title">MeetLog</string>
+    <string name="home_subtitle">Только на устройстве. Без аккаунта.</string>
+    <string name="home_backup_note">Резервные копии: AES-256-GCM на устройстве.</string>
+    <string name="action_open_settings">Настройки</string>
+    <string name="action_open_billing">Подписка</string>
+</resources>

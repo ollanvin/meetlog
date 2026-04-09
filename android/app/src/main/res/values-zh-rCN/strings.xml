@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeetLog</string>
+    <string name="home_title">MeetLog</string>
+    <string name="home_subtitle">仅本地设备。无需账号。</string>
+    <string name="home_backup_note">备份在设备上使用 AES-256-GCM。</string>
+    <string name="action_open_settings">设置</string>
+    <string name="action_open_billing">订阅</string>
+</resources>
